@@ -1,0 +1,26 @@
+body {
+    font-family: "Barlow Condensed", sans-serif;
+}
+
+.logo {
+    width: 200px;
+    height: 44px;
+}
+
+.hero {
+    background-image: url(/assets/img/MBS_DogEvolution_blg_031820.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#contact {
+    background-color: #373230;
+}
+
+footer {
+    background-image: url(/assets/img/background.svg);
+}

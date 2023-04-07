@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="758px" viewBox="0 0 300 758" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background/Mobile/Greycheckerboard Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="758"></rect>
+    </defs>
+    <g id="Background/Mobile/Greycheckerboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#3A3533" xlink:href="#path-1"></use>
+            <g id="Group-15" mask="url(#mask-2)" fill="#BBA259" opacity="0.04">
+                <rect id="Rectangle-Copy" x="75.802139" y="73.8697143" width="73.9973262" height="77.744"></rect>
+                <rect id="Rectangle" x="149.799465" y="151.613714" width="75.802139" height="74.128"></rect>
+                <rect id="Rectangle-Copy-27" x="0" y="151.613714" width="75.802139" height="74.128"></rect>
+                <rect id="Rectangle-Copy-19" x="225.601604" y="73.8697143" width="73.9973262" height="77.744"></rect>
+                <rect id="Rectangle-Copy-2" x="149.799465" y="0" width="75.802139" height="74.128"></rect>
+                <rect id="Rectangle-Copy-26" x="0" y="0" width="75.802139" height="74.128"></rect>
+            </g>
+            <g id="Group-15" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.0257468378">
+                <g transform="translate(0.000000, 226.000000)">
+                    <rect id="Rectangle-Copy" x="75.802139" y="0.536301408" width="73.9973262" height="77.4033502"></rect>
+                    <rect id="Rectangle" x="149.799465" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <rect id="Rectangle-Copy-27" x="0" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <rect id="Rectangle-Copy-19" x="225.601604" y="0.536301408" width="73.9973262" height="77.4033502"></rect>
+                </g>
+            </g>
+            <g id="Group-15" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.0257468378">
+                <g transform="translate(0.000000, 377.000000)">
+                    <rect id="Rectangle-Copy" x="75.802139" y="0.536301408" width="73.9973262" height="77.4033502"></rect>
+                    <rect id="Rectangle" x="149.799465" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <rect id="Rectangle-Copy-27" x="-3.62376795e-13" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <polygon id="Rectangle-Copy-19" points="225.601604 0.536301408 299.59893 0.536301408 299.59893 28.4609375 299.59893 77.9396516 225.601604 77.9396516"></polygon>
+                </g>
+            </g>
+            <g id="Group-15" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.0257468378">
+                <g transform="translate(0.000000, 528.000000)">
+                    <rect id="Rectangle-Copy" x="75.802139" y="0.536301408" width="73.9973262" height="77.4033502"></rect>
+                    <rect id="Rectangle" x="149.799465" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <rect id="Rectangle-Copy-27" x="-3.62376795e-13" y="77.9396516" width="75.802139" height="73.8031944"></rect>
+                    <rect id="Rectangle-Copy-19" x="225.601604" y="0.536301408" width="73.9973262" height="77.4033502"></rect>
+                </g>
+            </g>
+            <g id="Group-15" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.0257468378">
+                <g transform="translate(0.000000, 680.000000)">
+                    <rect id="Rectangle-Copy" x="75.802139" y="0" width="73.9973262" height="77.4033502"></rect>
+                    <rect id="Rectangle-Copy-19" x="225.601604" y="0" width="73.9973262" height="77.4033502"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
